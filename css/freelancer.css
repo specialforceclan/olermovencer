@@ -6,6 +6,7 @@
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  background-image: transparent;
 }
 p {
   font-size: 20px;
@@ -69,7 +70,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: blue;
+  background: #18BC9C;
   color: white;
 }
 header .container {
